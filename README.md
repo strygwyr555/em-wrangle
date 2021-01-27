@@ -1,6 +1,6 @@
 # em-wrangle
 
-## [The Merchant of Venic](http://shakespeare.mit.edu/merchant/full.html)
+## [The Merchant of Venice](http://shakespeare.mit.edu/merchant/full.html)
 
 ## Speaker 1: PORTIA
 
