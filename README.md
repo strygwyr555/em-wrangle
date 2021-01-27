@@ -11,8 +11,8 @@
 ## Commands
 - Copy play from website
 - Paste in input file
-- grep -o '^PORTIA' input.txt -c >PORTIA_count.txt
-- grep -o '^NERISSA' input.txt -c >NERISSA_count.txt
+- grep -o '^PORTIA' input.txt -c >[PORTIA_count.txt](https://github.com/strygwyr555/em-wrangle/blob/main/PORTIA_count.txt)
+- grep -o '^NERISSA' input.txt -c >[NERISSA_count.txt](https://github.com/strygwyr555/em-wrangle/blob/main/NERISSA_count.txt)
 
 ## PORTIA speaks more than NERISSA
 
